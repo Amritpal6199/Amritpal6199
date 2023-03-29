@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I am Amritpal</h1>
 <h3 align="center">A Data Enthusiat from India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="350" src="[https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata-analyst&psig=AOvVaw2E__EQpNlf6L0GnTth9HJB&ust=1680218188525000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKC6vtSigv4CFQAAAAAdAAAAABAW)">
 
 
 - 🔭 I’m currently working on enhancing skill on various tool and Languages 
