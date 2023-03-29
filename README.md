@@ -1,6 +1,5 @@
-### Hi there 👋, I am Amritpal
-
-<!--A Data Enthusiat from India
+<h1 align="center">Hi there🙏🏻, I am Amritpal</h1>
+<h3 align="center">A Data Enthusiat from India</h3>
 
 
 - 🔭 I’m currently working on enhancing skill on various tool and Languages 
