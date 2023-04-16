@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Amritpal</h1>
-<h3 align="center">A Data Enthusiat from India</h3>
+<h3 align="center">A Data Enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
